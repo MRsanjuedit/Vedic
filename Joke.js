@@ -1,7 +1,7 @@
 const { Telegraf } = require('telegram');
 const axios = require('axios');
  //sanjujokes_bot
-const telegram_tocken = '7163243500:AAER73hZ9HiHUr4v7gCUS5raS8DW_kDH22s'
+const telegram_tocken = "Telegram - token here from Talluri Keshavardhan Mojesh"
 const bot = new Telegraf(telegram_tocken);
 
 bot.start((msg) => {
